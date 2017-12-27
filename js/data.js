@@ -1,4 +1,4 @@
-const country = [
+const data = [
   {
       "name": "Afghanistan",
       "code": "AF"
