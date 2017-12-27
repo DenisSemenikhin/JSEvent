@@ -1,0 +1,4 @@
+# NPM specific
+node_modules/
+*.log
+
